@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Simulator Artifacts
+*.vcd
+*.fst
+*_sim
+a.out
+
 # Distribution / packaging
 .Python
 build/
